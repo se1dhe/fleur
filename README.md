@@ -6,6 +6,10 @@ Premium product presentation for **FLEUR**, a Telegram Mini App for a flower-del
 - **Live presentation mirror:** https://flowerly-dnipro-tma.vercel.app/fleur/
 - **Telegram Mini App source:** https://github.com/se1dhe/fluer-telegram-shop
 
+## Presentation languages
+
+The presentation supports Ukrainian, Russian, and English. Use the language switcher in the header or add `?lang=uk`, `?lang=ru`, or `?lang=en` to the page URL for portfolio screenshots. The Telegram Mini App source and its existing multilingual behavior are unchanged.
+
 ## GitHub Pages
 
 The site's entry point is `index.html` in this repository's root; no build tools or npm install are needed.
